@@ -1,0 +1,10 @@
+.new{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(190, 15, 15);
+    color: black;
+    margin: 50px;
+    padding: 30px;
+}
